@@ -5,6 +5,7 @@ Dabai 的 Agent Skill 库。
 ## 当前技能
 
 - [`agents-md-doctor`](./agents-md-doctor/)：基于文本证据审计和改进 `AGENTS.md` 指令系统，覆盖索引、继承、冲突、重复、可执行性与安全边界。
+- [`codex-time-range-retrospective`](./codex-time-range-retrospective/)：按用户指定时间范围检索 Codex 对话与执行日志，按项目文件夹提炼复盘经验、个人风格档案和最小可复用规则。
 
 ## 使用
 
